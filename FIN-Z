@@ -133,7 +133,7 @@
     <div class="balance-section">
         <p class="balance-title">Ngân sách còn lại</p>
         <div class="balance-amount" id="balance-val">2.000.000đ</div>
-        <p style="font-size: 0.8rem; color: #718096;">Hạn mức tháng: <span id="limit-val">4.000.000</span>đ</p>
+        <p style="font-size: 0.8rem; color: #718096;">Hạn mức tháng: <span id="limit-val">2.000.000</span>đ</p>
         <div class="budget-progress">
             <div class="progress-fill" id="progress-bar" style="width: 0%"></div>
         </div>
